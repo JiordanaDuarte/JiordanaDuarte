@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <a href="jiordana2002duarte@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
- interface de  exportação SpotifyAuthResponse  {
+  interface de  exportação SpotifyRefreshResponse  {
     access_token : string ;
-    refresh_token : string ;
     token_type : 'Portador' ;
     escopo : cadeia ;
     expira_in : número ;
