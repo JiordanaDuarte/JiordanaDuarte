@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=jiordanaduarte" alt="jiordanaduarte" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
