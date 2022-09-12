@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "40" height="40"/> </a>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
 
-<img align="center" alt="Coding" width="250" src="https://media2.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47ang1dzrbt0055xsp44nj640x2ytca0zi1kgkbmi5&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="250" src="http://pa1.narvii.com/6552/75b64d7b0524ba15b6b3e3a4235b19d70a824f21_00.gif">
