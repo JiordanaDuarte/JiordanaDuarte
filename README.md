@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css" width= "40" height="40"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "40" height="40"/> </a>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
-</p>noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ >  </p>
