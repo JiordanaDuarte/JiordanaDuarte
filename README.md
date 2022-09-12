@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/css-filetype.png" alt="css" width= "40" height="40"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/html-filetype.png" alt="html" width= "40" height="40"/> </a> 
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/figma.png" alt="figma" width= "40" height="40"/> </a>
-!(https://github-readme-stats.vercel.app/api?username=JiordanaDuarte&theme=dark&show_icons=true)
 
 <img align="center" alt="Coding" width="150" src="http://pa1.narvii.com/6552/75b64d7b0524ba15b6b3e3a4235b19d70a824f21_00.gif">
