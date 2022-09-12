@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css" width= "40" height="40"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "40" height="40"/> </a>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752">
