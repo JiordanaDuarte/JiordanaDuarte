@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
-<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/344/javascript-logo.png" alt="figma" width= "40" height="40"/> </a>
+<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript.png" alt="figma" width= "40" height="40"/> </a>
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css" width= "41" height="41"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "38" height="38"/> </a>
-<a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com.br/icon/xBrQ97Arogyy/figma" alt="figma" width= "40" height="40"/> </a>
+<a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
 </p>noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ >  </p>
