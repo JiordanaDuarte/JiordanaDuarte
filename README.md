@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jiordana-duarte-2563a0242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCnONsKTS7uan7WcByxAog%3D%3D" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-2.png" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jiordana_duarte/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="jiordana2002duarte@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jiordana-duarte-2563a0242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCnONsKTS7uan7WcByxAog%3D%3D" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jiordana_duarte/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="30" width="40" /></a>
+<a href="jiordana2002duarte@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail.png" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
