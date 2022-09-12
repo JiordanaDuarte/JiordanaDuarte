@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
-<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/metro/2x/js.png" alt="figma" width= "40" height="40"/> </a>
+<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/javascript-logo.png" alt="figma" width= "40" height="40"/> </a>
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com.br/icon/102501/css3" alt="css" width= "41" height="41"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com.br/icon/101353/html-5" alt="html" width= "38" height="38"/> </a>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icons8.com.br/icon/xBrQ97Arogyy/figma" alt="figma" width= "40" height="40"/> </a>
