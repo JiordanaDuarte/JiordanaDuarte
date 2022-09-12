@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css" width= "40" height="40"/> </a>
 <a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "40" height="40"/> </a>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
