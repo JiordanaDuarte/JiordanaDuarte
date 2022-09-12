@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
-<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript.png" alt="figma" width= "40" height="40"/> </a>
-<a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css" width= "40" height="40"/> </a>
-<a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width= "40" height="40"/> </a>
-<a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
+<a href="https:// www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/javascript.png" alt="figma" width= "40" height="40"/> </a>
+<a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/css-filetype.png" alt="css" width= "40" height="40"/> </a>
+<a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/html-5.png" alt="html" width= "40" height="40"/> </a>
+<a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/figma.png" alt="figma" width= "40" height="40"/> </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiordanaDuarte&theme=dark&show_icons=true)
 
