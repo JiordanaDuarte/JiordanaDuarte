@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <h3 align="left">Idiomas e ferramentas:</h3>
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a>
 <a href="https:// www.css.com/" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css" width= "40" height="40"/> </a>
-<a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="html" width= "40" height="40"/> </a>
+<a href="https:// www.html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="html" width= "40" height="40"/> </a>
 </p>noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ >  </p>
