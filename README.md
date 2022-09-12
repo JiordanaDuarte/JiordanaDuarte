@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jiordana-duarte-2563a0242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCnONsKTS7uan7WcByxAog%3D%3D" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jiordana_duarte/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="30" width="40" /></a>
-<a href="jiordana2002duarte@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail.png" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jiordana-duarte-2563a0242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCnONsKTS7uan7WcByxAog%3D%3D" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/linkedin.png" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jiordana_duarte/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-instagram-a-popular-social-networking-service-with-magic-filters-logo-bold-tal-revivo.png" alt="" height="30" width="40" /></a>
+<a href="jiordana2002duarte@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/google-plus.png" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width= "40" height="40"/> </a>
 
 <img align="center" alt="Coding" width="250" src="https://media2.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47ang1dzrbt0055xsp44nj640x2ytca0zi1kgkbmi5&rid=giphy.gif&ct=g">
+
+<img align="center" alt="Coding" width="250" src="">
 
