@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 <img align="center" alt="Coding" width="250" src="https://media2.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47ang1dzrbt0055xsp44nj640x2ytca0zi1kgkbmi5&rid=giphy.gif&ct=g">
 
 ![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=JiordanaDuarte)
+
+<img height="180em" src="https://camo.githubusercontent.com/ad310149da5e1e8aadfe149ef9e20350957ce7c0e272bb5033744878e1ef50bd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62726965666663267468656d653d626c75652d677265656e2673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=brieffc&amp;theme=blue-green&amp;show_icons=true" style="max-width: 100%;">
