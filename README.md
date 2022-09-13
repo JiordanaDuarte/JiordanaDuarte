@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="gato" width="100" src="https://thumbs.gfycat.com/TalkativeHardtofindHound-max-1mb.gif">
+<div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiordanaDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
