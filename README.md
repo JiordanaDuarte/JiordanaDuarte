@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <img align="right" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 <br>
 <br>
-<a href="https://github.com/JiordanaDuarte/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JiordanaDuarte&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Jiordana's github stats" />
+
 
 <img align="right" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
