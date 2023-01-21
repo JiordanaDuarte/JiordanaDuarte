@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ![Jiordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordanaduarte&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordanaduarte&layout=compact)](https://github.com/jiordanaduarte/github-readme-stats)
+
 <h3 align="left">conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jiordana-duarte-2563a0242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCnONsKTS7uan7WcByxAog%3D%3D" target="blank"><img align="center" src="https://img.icons8.com/nolan/344/linkedin.png" alt="" height="40" width="40" /></a>
