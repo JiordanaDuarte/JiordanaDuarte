@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![Jiordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordanaduarte&show_icons=true&theme=radical)
+![Jiordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordanaduarte&show_icons=true&theme=cobalt)
 
 <h3 align="left">conecte-se comigo:</h3>
 <p align="left">
