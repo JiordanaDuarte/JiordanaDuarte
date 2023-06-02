@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ![Jiordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordanaduarte&show)
 <img align="left" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordanaduarte&layout=compact)](https://github.com/jiordanaduarte/github-readme-stats)
-![gato](https://github.com/JiordanaDuarte/JiordanaDuarte/assets/113063708/81b1891b-b8dc-46c4-8ca8-4047ba339c86) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordanaduarte&layout=compact)](https://github.com/jiordanaduarte/github-readme-stats) 
+![gifs-unscreen](https://github.com/JiordanaDuarte/JiordanaDuarte/assets/113063708/edc25cb0-33a6-481d-aa4f-f126c2eb53aa)
 
 
 <br>
@@ -36,6 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jiordana_duarte/" target="blank"><img width="48" height="48" src="https://img.icons8.com/windows/64/instagram.png" alt="instagram"/>
 <a href="jiordana2002duarte@gmail.com" target="blank"><img width="48" height="48" src="https://img.icons8.com/windows/64/gmail-new.png" alt="gmail-new"/>
 </p>
-
+  
+![gato](https://github.com/JiordanaDuarte/JiordanaDuarte/assets/113063708/81b1891b-b8dc-46c4-8ca8-4047ba339c86)
 <br>
 <br>
