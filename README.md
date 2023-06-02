@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jiordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiordanaduarte&show)
+<img align="left" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordanaduarte&layout=compact)](https://github.com/jiordanaduarte/github-readme-stats)
 
@@ -37,6 +38,3 @@ Here are some ideas to get you started:
 <img align="right" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 <br>
 <br>
-
-
-<img align="right" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
