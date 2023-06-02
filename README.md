@@ -1,4 +1,4 @@
-### Hi there 
+<img width="34" height="34" src="https://img.icons8.com/windows/64/dev.png" alt="dev"/>
 
 <!--
 **JiordanaDuarte/JiordanaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <img align="left" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiordanaduarte&layout=compact)](https://github.com/jiordanaduarte/github-readme-stats)
+![gato](https://github.com/JiordanaDuarte/JiordanaDuarte/assets/113063708/81b1891b-b8dc-46c4-8ca8-4047ba339c86) 
 
-<img width="34" height="34" src="https://img.icons8.com/windows/64/dev.png" alt="dev"/>
+
+
 <br>
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">
@@ -35,6 +37,5 @@ Here are some ideas to get you started:
 <a href="jiordana2002duarte@gmail.com" target="blank"><img width="48" height="48" src="https://img.icons8.com/windows/64/gmail-new.png" alt="gmail-new"/>
 </p>
 
-<img align="right" alt="gato" width="150" src="https://thumbs.gfycat.com/CheapShowyFrogmouth-size_restricted.gif">
 <br>
 <br>
